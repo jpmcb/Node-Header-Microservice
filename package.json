@@ -1,0 +1,20 @@
+{
+  "name": "header-microservice-api",
+  "version": "0.1.0",
+  "description": "Micro API that returns the IPv4, IPv6, Language, and the Opperating System. Can be split up depending on requested URL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpmcb/Node-Header-Microservice.git"
+  },
+  "author": "John McBride",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpmcb/Node-Header-Microservice/issues"
+  },
+  "homepage": "https://github.com/jpmcb/Node-Header-Microservice#readme"
+}
